@@ -1,3 +1,5 @@
+I'll get to working on this eventually, for now, have this:
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
